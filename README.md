@@ -1,8 +1,8 @@
-# Sistema de Pedidos y Repartos de Elementos de Protección Personal (EPP)
+# Sistema de Pedidos y Repartos de Elementos de Protección Personal (EPP).
 
 Este proyecto consiste en el **diseño** de un sistema para gestionar y distribuir los **Elementos de Protección Personal (EPP)** dentro de la **Universidad Nacional del Sur**. El sistema fue desarrollado a partir de una entrevista con el encargado del área, buscando mejorar la eficiencia y organización del proceso.
 
-## 👥 Participantes: 2 personas
+👥 Participantes: 2 personas.
 
 ## 🛠️ Características Principales
 
